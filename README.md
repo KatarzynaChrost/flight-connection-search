@@ -6,8 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Instalation
 
-First run `npm i`
-Then run `npm start`
+First run `npm i` \
+Then run `npm start`\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
